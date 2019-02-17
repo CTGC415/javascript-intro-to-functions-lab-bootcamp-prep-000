@@ -15,3 +15,15 @@ function logWhisper(string) {
   console.log(string.toLowerCase())
   return
 }
+
+function sayHiToGrandma(string) {
+  if (string === whisper(string)) {
+    return 
+  }
+  if (string === shout(string)) {
+    return
+  }
+  if (string === ) {
+    return
+  }
+}
