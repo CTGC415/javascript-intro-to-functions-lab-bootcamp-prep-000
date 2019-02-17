@@ -11,4 +11,7 @@ function logShout(string) {
   return
 }
 
-function 
+function logWhisper(string) {
+  console.log(string.toLowerCase())
+  return
+}
