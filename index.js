@@ -21,7 +21,7 @@ function sayHiToGrandma(string) {
     return "I can't hear you!"
   }
   if (string === shout(string)) {
-    return
+    return "YES INDEED!"
   }
   if (string === ) {
     return
